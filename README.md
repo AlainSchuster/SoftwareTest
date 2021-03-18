@@ -6,7 +6,7 @@
 
 * Name : Alain Schuster
 * Student Id: 0191362459
-* Email : lehredeswambo@live.com
+* Email : aschuster1997@hotmail.com
 
 ### Setting
 In this practical session, you will code a method to compute the cost of shopping basket and test it using JUnit.
